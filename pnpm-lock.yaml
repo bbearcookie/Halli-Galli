@@ -66,12 +66,6 @@ importers:
       '@types/supertest':
         specifier: ^6.0.0
         version: 6.0.2
-      '@typescript-eslint/eslint-plugin':
-        specifier: ^6.0.0
-        version: 6.17.0(@typescript-eslint/parser@6.17.0)(eslint@8.57.0)(typescript@5.3.3)
-      '@typescript-eslint/parser':
-        specifier: ^6.0.0
-        version: 6.17.0(eslint@8.57.0)(typescript@5.3.3)
       eslint:
         specifier: ^8.42.0
         version: 8.57.0
